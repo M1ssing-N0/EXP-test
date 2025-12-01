@@ -4,4 +4,6 @@ MW_coefs/Sgr_coefs: Creating coefficient files. (Disk basis has been updated to 
 
 outcoef*.h5: Pre-generated and merged coefficients.
 
-plot_orbit: Draw the plot
+plot_orbit: Draw the plot.
+
+(Cannot upload the disk basis due to large size)
